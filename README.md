@@ -5,3 +5,5 @@
 </p>
 
 :page_with_curl: Repositório para estudos utilizando Apache Kafka e Google Vision
+
+![Em desenvolvimento](https://img.shields.io/badge/initial%20version-in--progress-brightgreen.svg)
